@@ -1,0 +1,76 @@
+.table {
+    border-collapse: collapse;
+}
+
+body {
+    /* font-family: 'roboto'; */
+    font-family: 'Dongle', sans-serif;
+    background-color: rgb(170, 234, 255);
+    color: rgb(0, 112, 149);
+    padding: 20px;
+}
+.Top {
+    background-color: rgb(236, 246, 255);
+    padding-left: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 15px;
+    width: 75%;
+    font-size: 30px;
+}
+.fontSize {
+    font-size: 30px;
+    font-family: 'Dongle', sans-serif;
+}
+.fontSizee {
+    font-size: 20px;
+    font-family: 'Dongle', sans-serif;
+}
+.formIsi {
+    
+    background-color: rgb(236, 246, 255);
+    margin-top: 5px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    border-radius: 15px;
+    width: 75%;
+}
+.divTabel {
+    background-color: rgb(236, 246, 255);
+    margin-top: 5px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    width: 75%;
+}
+table.table{
+    border-color: rgba(255, 255, 255 , 0);
+    background-color: rgb(236, 246, 255);
+}
+table.table th{
+    background-color: rgb(251, 107, 247);
+    color: rgb(255, 255, 255);
+    padding: 6px 20px;
+
+    border-radius:12px ;
+}
+.but{
+    border: none;
+    
+}
+table.table th th,
+table.table tr td {
+    background-color: rgb(194, 246, 248);
+    padding: 10px 20px;
+    border-radius:15px ;
+}
+.button{
+    
+    border-radius:10px ;
+    text-decoration: none;
+    background-color: rgb(255, 195, 255);
+    color: rgb(0, 0, 0);
+    padding: 5px 8px;
+}
